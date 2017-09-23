@@ -1,3 +1,4 @@
+<<<<<<< HEAD:apex/README.md
 ## IMPORTANT: How to prepare for this Workshop
 
 **First**, ***Get an Oracle Application Express Workspace and Workspace Administrator/Developer User Account*** 
@@ -86,3 +87,7 @@ In this series of hands-on-labs, you also quickly build two simple applications.
 - Create a Dashboard
 - Navigate through and review the page designer panes
 - Add a chart region and edit the chart attributes
+=======
+# workshops
+contains workshops and hands-on labs from product managers
+>>>>>>> parent of 8f8e900... upated workshop files to Github pages:README.md
